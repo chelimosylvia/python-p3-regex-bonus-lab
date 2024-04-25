@@ -1,7 +1,7 @@
 from distutils.filelist import findall
 import re
 
-from regex import my_regex
+from lib.regex import my_regex
 
 FINDALL_STRING = """
     It's such a lovely day today.
